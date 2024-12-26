@@ -1,0 +1,13 @@
+name: bun
+id: ari:cloud:compass:7ab74c8c-cdc7-47b4-ac42-498142383c41:component/e7890024-d21a-491e-8eed-88aeb93717f5/929b2703-bd0e-4d94-9173-08690025f5c7
+description: SQL-first Golang ORM
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links: []
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
